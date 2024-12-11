@@ -1,4 +1,4 @@
-# Formative-Assessment-NLP---Emotion-Classification-in-Text
+# NLP---Emotion-Classification-in-Text
 Objective: 
 Develop machine learning models to classify emotions in text samples.
 
